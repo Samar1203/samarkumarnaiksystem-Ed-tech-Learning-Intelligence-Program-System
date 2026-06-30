@@ -10,14 +10,22 @@ EdTech Learning Intelligence Platform is a UI/UX design project created in Figma
 
 ## Preview
 
-| Dashboard |Learning Analytics |
-|------------|------------|
+Dashboard 
 
 
-|My Learning | AI Recommendations |
+Course Catalog
+
+
+AI Advisor
+
+
+Assessments
+
+
+
+
 
  
- Learning Analytics 
 
 
 ## Features
